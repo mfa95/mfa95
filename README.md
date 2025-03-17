@@ -1,4 +1,5 @@
-## Hi there 👋
+## Selamun aleyküm,
+Araştırmayı ve bilgi edinmeyi çok severim. Hobi olarak uzun yıllardır yazılımla ilgileniyorum fakat hâlâ amatör sayılırım.
 
 <!--
 **mfa95/mfa95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
